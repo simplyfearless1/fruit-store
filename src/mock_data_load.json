@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "tab": "Hot",
+    "country": "America",
+    "price": "20",
+    "title": "Apple",
+    "description": "An apple is a round, edible fruit produced by an apple tree Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus.",
+    "thumbnail": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 1,
+    "tab": "Hot",
+    "country": "England",
+    "price": "12",
+    "title": "Banana",
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+    "thumbnail": "https://images.pexels.com/photos/2872755/pexels-photo-2872755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "tab": "Hot",
+    "country": "Japan",
+    "price": "15",
+    "title": "Cherry",
+    "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit).",
+    "thumbnail": "https://images.pexels.com/photos/109274/pexels-photo-109274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "tab": "New",
+    "country": "America",
+    "price": "11",
+    "title": "Apple",
+    "description": "An apple is a round, edible fruit produced by an apple tree Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus.",
+    "thumbnail": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "tab": "New",
+    "country": "Japan",
+    "price": "12",
+    "title": "Banana",
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+    "thumbnail": "https://images.pexels.com/photos/2872755/pexels-photo-2872755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "tab": "New",
+    "country": "England",
+    "price": "5",
+    "title": "Cherry",
+    "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit).",
+    "thumbnail": "https://images.pexels.com/photos/109274/pexels-photo-109274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "tab": "Recommended",
+    "country": "America",
+    "price": "10",
+    "title": "Apple",
+    "description": "An apple is a round, edible fruit produced by an apple tree Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus.",
+    "thumbnail": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 7,
+    "tab": "Recommended",
+    "country": "England",
+    "price": "6",
+    "title": "Banana",
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+    "thumbnail": "https://images.pexels.com/photos/2872755/pexels-photo-2872755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "tab": "Recommended",
+    "country": "Japan",
+    "price": "3",
+    "title": "Cherry",
+    "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit).",
+    "thumbnail": "https://images.pexels.com/photos/109274/pexels-photo-109274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
